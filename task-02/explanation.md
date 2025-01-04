@@ -1,6 +1,6 @@
- Downloaded the png file from the website canva
+>> Downloaded the png file from the website canva
 
-then installed pytesseract and Pillow using the following commands:
+>>then installed pytesseract and Pillow using the following commands:
 
 sudo apt install tesseract-ocr 
 
@@ -10,11 +10,12 @@ pip install pytesseract
 
 pip install pillow 
 
-(Python-tesseract is an optical character recognition (OCR) tool for python.It will recognize and “read” the text embedded in images.)
+#(Python-tesseract is an optical character recognition (OCR) tool for python.It will recognize and “read” the text embedded in images.)
 
-(Pillow is an open source library specifically designed for image processing using  Python)
+#(Pillow is an open source library specifically designed for image processing using  Python)
 
-code explanation:
+>>code explanation:
+
 image_path = '/home/sreekanth/Downloads/canva4.png'  (located the image path)
 
 img = Image.open(image_path)                         (uing the open in the module PIl opens the image and hold in img)
@@ -25,7 +26,7 @@ answer = eval(text)                                  ( eval() is a function that
 
 print(answer)
 
-conlusion:
+>>conlusion:
 
 the text inside the image was 8+8 and successfully got the answer 16
 
