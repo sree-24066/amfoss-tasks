@@ -2,10 +2,13 @@
 
 then installed pytesseract and Pillow using the following commands:
 
-sudo apt install tesseract-ocr
-sudo apt install python3-pip
-pip install pytesseract
-pip install pillow
+sudo apt install tesseract-ocr 
+
+sudo apt install python3-pip 
+
+pip install pytesseract 
+
+pip install pillow 
 
 (Python-tesseract is an optical character recognition (OCR) tool for python.It will recognize and “read” the text embedded in images.)
 (Pillow is an open source library specifically designed for image processing using  Python)
