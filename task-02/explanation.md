@@ -26,6 +26,7 @@ answer = eval(text)                                  ( eval() is a function that
 print(answer)
 
 conlusion:
+
 the text inside the image was 8+8 and successfully got the answer 16
 
 in this task learned how to use Optical Character Recognition (OCR) to extract text from images.
