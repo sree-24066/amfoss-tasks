@@ -10,10 +10,10 @@ pip install pytesseract
 
 pip install pillow 
 
-# 3) (Python-tesseract is an optical character recognition (OCR) tool for python.It will recognize and “read” the text embedded in images.)
+#(Python-tesseract is an optical character recognition (OCR) tool for python.It will recognize and “read” the text embedded in images.)
 
-# 4) (Pillow is an open source library specifically designed for image processing using  Python)
-# 5) code explanation:
+#(Pillow is an open source library specifically designed for image processing using  Python)
+# 3) code explanation:
 
 image_path = '/home/sreekanth/Downloads/canva4.png'  (located the image path)
 
@@ -25,7 +25,7 @@ answer = eval(text)                                  ( eval() is a function that
 
 print(answer)
 
-# 6) conlusion:
+# 4) conlusion:
 
 the text inside the image was 8+8 and successfully got the answer 16
 
