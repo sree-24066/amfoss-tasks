@@ -12,3 +12,14 @@ Hard work, dedication, and perseverance drive me. I’m eager to contribute, lea
 "The tasks have been really insightful, and I’ve gained a lot from each one. Most tasks were fine, except after 4th , which I could have completed if I had more time. I ran into some issues with dual booting Linux, which caused occasional boot failures and system hangs while working. This led to a lot of lost time, and I regret not being able to finish all 10 tasks despite my best efforts.
 
 Although I’m hopeful to be selected, I’m not discouraged if it doesn’t work out, as the lessons I’ve gained from this process have been incredibly valuable."
+
+#Task status
+# Task Statistics
+
+| Task List  | Description                   | Status     |
+|------------|-------------------------------|------------|
+| Task-00    | Install Linux                 | Completed  |
+| Task-01    | The Command Line Cup          | Completed  |
+| Task-02    | Pixelated Problem solver      | Completed  |
+| Task-03    | Beat the buttons              | Completed  |
+| Task-04    | code the puzzles              | Completed  |
